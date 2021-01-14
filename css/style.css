@@ -1,0 +1,39 @@
+
+.navbar-edit-in-css {
+   background-color: #FFFBF0;
+}
+
+.full-header {
+    background-color: #FFFBF0;
+    grid-template-columns: repeat:(1 1fr);
+    
+}
+
+.header-part-1 {
+   padding: 120px;
+   
+   
+}
+.header-part-1 h1{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+}
+.transition{
+    overflow: hidden;
+}
+.transition img:hover{
+    transform: scale(1.2);
+    transition: transform 4s;
+}
+.card-body h5 {
+    font-size: 35px;
+    font-weight: 600;
+    color: #363958;
+}
+
+
+
+
+
+
